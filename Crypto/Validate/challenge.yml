@@ -1,0 +1,23 @@
+name: "Validate"
+author: "Pal"
+category: Crypto
+
+description: |
+  Use the file to validate your flag.
+  Submit the flag in the form wtfCTF{...}
+value:
+type: dynamic
+
+decay: 100
+minimum: 100
+
+flags:
+  - wtfctf{k33pC@1m@ndp14yCTF}
+
+files:
+  - "Crypto/Validate/question.txt"
+
+tags:
+  - crypto
+
+state: hidden

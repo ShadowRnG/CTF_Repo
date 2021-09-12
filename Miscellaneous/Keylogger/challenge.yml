@@ -1,0 +1,22 @@
+name: "Keylogger"
+author: "Pal"
+category: Miscellaneous
+
+description: |
+  You cant! ;)
+value:
+type: dynamic
+
+decay: 100
+minimum: 100
+
+flags:
+  - wtfCTF{Vim_eDit0r_i$_4weS0mE}
+
+files:
+  - "Miscellaneous/Keylogger/Keylogger.png"
+
+tags:
+  - miscellaneous
+
+state: hidden

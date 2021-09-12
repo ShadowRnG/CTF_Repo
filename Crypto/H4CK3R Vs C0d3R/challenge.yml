@@ -1,0 +1,24 @@
+name: "Quarantine Calculator"
+author: "Nithin"
+category: Crypto
+
+description: |
+  Are you the hacker or a coder?
+value: 
+type: dynamic
+
+decay: 100
+minimum: 100
+
+flags:
+  - wtfCTF{Did_u_h4ck1t_or_50lv31t}
+
+files:
+  - "Crypto/H4CK3R Vs C0d3R/encr3pt.py"
+  - "Crypto/H4CK3R Vs C0d3R/Images/coder.png"
+  - "Crypto/H4CK3R Vs C0d3R/Images/hacker.png"
+
+tags:
+  - Crypto
+
+state: hidden

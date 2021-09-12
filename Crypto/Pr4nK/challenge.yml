@@ -1,0 +1,23 @@
+name: "Pr4nK"
+author: "Nithin"
+category: Crypto
+
+description: |
+  Your hacker friend want to tell you something important. But he always pulls pranks on you. Do you think this is one of em? =)
+value: 
+type: dynamic
+
+decay: 100
+minimum: 100
+
+flags:
+  - wtfCTF{1nc0gn1t0_c4nt_st0p_v1ru5_dumb0!}
+
+files:
+  - "Crypto/Pr4nK/3ncrypt.py"
+  - "Crypto/Pr4nK/msg.txt"
+
+tags:
+  - crypto
+
+state: hidden

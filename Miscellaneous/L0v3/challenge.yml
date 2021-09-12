@@ -1,0 +1,22 @@
+name: "L0v3"
+author: "Nithin"
+category: Miscellaneous
+
+description: |
+  Unfortunately my assistant deleted some of the files from my flash drive. Can you retrieve them and collect the flag?
+  https://drive.google.com/file/d/1SAcJdtPHGRKenyf-qiiT994fRbNLVC4w/view?usp=sharing
+value: 
+type: dynamic
+
+decay: 100
+minimum: 100
+
+flags:
+  - wtfCTF{y0U_Ar3_g00d_47_Da7A_r3c0v3rY}
+
+files:
+
+tags:
+  - miscellaneous
+
+state: hidden

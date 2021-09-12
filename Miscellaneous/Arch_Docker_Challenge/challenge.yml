@@ -1,0 +1,21 @@
+name: "ArchTic"
+author: "Shrenik"
+category: Miscellaneous
+
+description: |
+  Can you help Nemo find the flag? Nemo loves a challenge. And a flag. https://hub.docker.com/r/madjelly8504/ctf_challenge
+value:
+type: dynamic
+
+decay: 100
+minimum: 100
+
+flags:
+  - wtfctf{}
+
+files:
+
+tags:
+  - miscellaneous
+
+state: hidden
